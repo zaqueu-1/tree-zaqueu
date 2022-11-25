@@ -1,0 +1,25 @@
+@media (max-width: 600px) {
+.avatar {
+    width: 14rem;
+}
+
+.container {
+    width: 19rem;
+    text-align: center;
+    margin: 1rem auto 0 auto;
+    padding: 1rem 2rem;
+}
+
+.icon {
+  width: 2rem;
+  height: 2rem;
+}
+
+li {
+  padding: 0 0.25rem;
+}
+
+a {
+  padding: 1.5rem;
+}
+}
