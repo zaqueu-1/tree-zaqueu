@@ -1,13 +1,6 @@
 var VanillaTilt = (function () {
 'use strict';
 
-/**
- * Created by Sergiu Șandor (micku7zu) on 1/27/2017.
- * Original idea: https://github.com/gijsroge/tilt.js
- * MIT License.
- * Version 1.7.3
- */
-
 class VanillaTilt {
   constructor(element, settings = {}) {
     if (!(element instanceof Node)) {
@@ -21,7 +14,6 @@ class VanillaTilt {
     this.left = null;
     this.top = null;
 
-    // for Gyroscope sampling
     this.gammazero = null;
     this.betazero = null;
     this.lastgammazero = null;
