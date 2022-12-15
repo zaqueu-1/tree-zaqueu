@@ -1,13 +1,13 @@
 @media (max-width: 600px) {
 .avatar {
-    width: 13.5rem;
+    width: 12.5rem;
 }
 
 .container {
-    width: 19rem;
     text-align: center;
-    margin: 1rem auto 0 auto;
-    padding: 1rem 2rem;
+    max-width: 320px;
+    padding: 0 1.5rem;
+    margin: 0 auto;
 }
 
 h1 {
@@ -20,16 +20,16 @@ h1 {
 }
 
 .icon {
-  width: 2rem;
-  height: 2rem;
+  width: 1.5rem;
+  height: 1.5rem;
 }
 
 li {
-  padding: 0 0.25rem;
+  gap: .5rem;
 }
 
 .list-link {
-  padding: 1.25rem;
+  padding: 1rem;
 }
 
 footer {
