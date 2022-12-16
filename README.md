@@ -8,7 +8,7 @@
 
 tree- is a linktree inpired tool that uses icons instead of text boxes. I developed this project so I had my own tool to put all my contact info and social media.
 
-## Preview
+## Demo
 
 ![demo](https://github.com/zaqueu-1/tree-zaqueu/blob/main/chrome-capture-2022-11-16%20(1).gif)
 
